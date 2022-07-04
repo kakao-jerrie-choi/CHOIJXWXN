@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # CHOI JIWON :)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=pinkytime)](https://solved.ac/pinkytime/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pinkytime&theme=warm)
 
 # Skills
 ### Platforms & Languages
